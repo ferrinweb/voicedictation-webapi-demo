@@ -28,6 +28,12 @@ yarn install
 }
 ```
 
+### 启动代理
+```
+node proxy
+```
+代理端口为 3000
+
 ### 编译并启动
 ```
 yarn run serve
