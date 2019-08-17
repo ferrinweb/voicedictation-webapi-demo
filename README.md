@@ -1,7 +1,10 @@
 # 讯飞语音听写 webApi 纯前端接口示例
 
 > 讯飞云平台官方并没有web端api示例，最接近的可能是由 [Kenn Zhang](https://github.com/breakstring) 贡献的 [node.js 版本的示例](https://github.com/breakstring/xunfeisdk)。
+
 > 讯飞不给出 web 客户端的示例有可能是没有打算这样做，因为目前讯飞语音听写等服务执行 IP 白名单策略。
+
+> 与此相关的一个语音输入按钮（vue 组件）封装：[voice-input-button](https://github.com/ferrinweb/voice-input-button)
 
 ## 可能是讯飞语音相关服务接口的首个纯前端实现。
 
